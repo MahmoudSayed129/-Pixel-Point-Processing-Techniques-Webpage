@@ -4,8 +4,8 @@ Welcome to the Pixel Point Processing Techniques Webpage project repository! Thi
 
 ## Demonstration Video
 
-To see the project in action and understand how the implemented pixel-point processing techniques enhance grayscale images, watch our demonstration video:
-[Project Demonstration](http://img.youtube.com/vi/hlXiiAA_KsU/0.jpg)
+To see the project in action and understand how the implemented pixel-point processing techniques enhance grayscale images, watch our demonstration video
+[Project Demonstration](https://youtu.be/hlXiiAA_KsU)
 
 ## Technologies 
 
