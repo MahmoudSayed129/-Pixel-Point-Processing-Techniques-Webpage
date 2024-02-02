@@ -2,15 +2,10 @@
 
 Welcome to the Pixel Point Processing Techniques Webpage project repository! This project focuses on creating a webpage using HTML, CSS, and JavaScript to demonstrate various pixel point processing techniques for grayscale images.
 
-Certainly! To add the YouTube link to the README file in a way that provides context and invites viewers to watch the demonstration of your project's results, you might consider the following addition:
-
----
-
 ## Demonstration Video
 
 To see the project in action and understand how the implemented pixel-point processing techniques enhance grayscale images, watch our demonstration video:
-
-[![Project Demonstration](http://img.youtube.com/vi/hlXiiAA_KsU/0.jpg)](https://youtu.be/hlXiiAA_KsU "Pixel Point Processing Techniques for Grayscale Images - Click to Watch!")
+[Project Demonstration](http://img.youtube.com/vi/hlXiiAA_KsU/0.jpg)
 
 ## Technologies 
 
